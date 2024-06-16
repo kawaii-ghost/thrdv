@@ -10,6 +10,7 @@ void thrd_joinv(thrd_ctx *mctx);
 ```
 ### Example
 ```c
+#include <thrdv.h>
 #include <stdio.h>
 
 int main(void)
